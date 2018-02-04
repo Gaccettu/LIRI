@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Gaccettu/LIRI/issues"
   },
-  "homepage": "https://github.com/Gaccettu/LIRI#readme"
+  "homepage": "https://github.com/Gaccettu/LIRI#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "save": "^2.3.2",
+    "twitter": "^1.7.1"
+  }
 }
